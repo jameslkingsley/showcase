@@ -74,6 +74,12 @@
                 </h1>
 
                 <img src="{{ url('/images/suite3/1.jpg') }}">
+
+                <h1 class="font-thin text-5xl text-center mb-12 mt-32 hover:text-brand">
+                    <a href="https://smallstone.uk" target="_newtab">Portfolio</a>
+                </h1>
+
+                <img src="{{ url('/images/smallstone/1.jpg') }}">
             </div>
         </div>
     </body>
